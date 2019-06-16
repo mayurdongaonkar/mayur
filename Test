@@ -1,0 +1,3 @@
+pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+1,1,"Donga, Mr. Mayu Vir",male,29,0,0,24160,211.3375,B5,S,2,,"Copll, TX"
+1,1,"Donga1, Mrs. Mayu1 Vir1",female,39,0,0,24160,211.3375,B5,S,2,,"Aus, TX"
