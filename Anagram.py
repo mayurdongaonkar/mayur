@@ -1,5 +1,5 @@
-s = "anagram"
-t = "nagaram"
+s = "anagram1"
+t = "nagaram1"
 
 print(s[:-2])
 
